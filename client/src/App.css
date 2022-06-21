@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.sunday {
+background-color: #282c34;
+min-height: 100vh;
+color: white;
+}
+
+.btn {
+  font-size: large;
+  background-color: blue;
+  margin: 20px;
+  width: 200px;
+}
